@@ -1,14 +1,13 @@
 ---
-title: Welcome to my blog
+title: 主页
+permalink: /
 ---
-# About Me
-## name
-**Jim** or **Josue**
-## age
-~~under 30~~
-## hobby
-- Counter Strike 2
-- Negative imagination
 
-## present target
-- To find an intership...
+# 介绍
+这是一个个人主页，我还在尝试构建一些内容。
+
+# 计划
+撰写一些个人笔记之类的
+
+# 关于我
+~~此处应有引用~~

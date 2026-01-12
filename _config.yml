@@ -1,6 +1,8 @@
 remote_theme: cayman
-title: Josue's home
 author: Josue
-description: Welcome to my blog!
-
-
+defaults: 
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
