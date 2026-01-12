@@ -3,7 +3,7 @@ title: Welcome to my blog
 ---
 # About Me
 ## name
-`Jim` or `Josue`
+**Jim** or **Josue**
 ## age
 ~~under 30~~
 ## hobby
