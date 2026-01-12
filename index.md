@@ -1,6 +1,6 @@
 ---
 title: 主页
-permalink: /
+permalink: /home
 ---
 
 # 介绍
