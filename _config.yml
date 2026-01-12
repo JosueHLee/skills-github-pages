@@ -1,4 +1,4 @@
-remote_theme: cayman
+theme: jekyll-theme-cayman
 author: Josue
 defaults: 
   -
